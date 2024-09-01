@@ -4,7 +4,7 @@ import Logo from "../Logo/Logo";
 import SearchBar from "../SearchBar/SearchBar";
 import Button from "../Button/Button";
 
-const Navbar = () => {
+function Navbar() {
   return (
     <>
       <nav className={styles.navbar}>
@@ -14,6 +14,6 @@ const Navbar = () => {
       </nav>
     </>
   );
-};
+}
 
 export default Navbar;

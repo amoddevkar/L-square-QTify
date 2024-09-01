@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 import styles from "./FilterSection.module.css";
-import BasicTabs from "../Basictabs/BasicTabs";
+//import BasicTabs from "../BasicTabs/BasicTabs";
+//import BasicTabs from "../BasicTabs/BasicTabs";
+import BasicTabs from "../BasicTabs/BasicTabs";
 import Carousel from "../Carousel/Carousel";
 import Card from "../Card/Card";
 import { CircularProgress } from "@mui/material";
